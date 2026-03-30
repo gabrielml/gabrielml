@@ -34,9 +34,9 @@
 
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-nine-iota-13.vercel.app/api?username=gabrielml&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Gabriel's github stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-nine-iota-13.vercel.app/api?username=gabrielml&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=398e47&icon_color=398e47&text_color=c9d1d9&hide_border=true" alt="Gabriel's github stats" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-nine-iota-13.vercel.app/api/top-langs/?username=gabrielml&layout=compact&theme=radical&hide_border=false" alt="Top Langs" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-nine-iota-13.vercel.app/api/top-langs/?username=gabrielml&layout=compact&bg_color=0d1117&title_color=398e47&icon_color=398e47&text_color=c9d1d9&hide_border=true" alt="Top Langs" /></a>
 
 
 [linkedin]: https://www.linkedin.com/in/gabrielmijares
